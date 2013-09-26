@@ -1,0 +1,386 @@
+2013-09-22T15:48:11+00:00 ERR (3): Warning: DOMDocument::loadXML(): EntityRef: expecting ';' in Entity, line: 7  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T15:48:11+00:00 ERR (3): Warning: DOMDocument::loadXML(): EntityRef: expecting ';' in Entity, line: 10  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T15:48:11+00:00 ERR (3): Warning: DOMDocument::loadXML(): EntityRef: expecting ';' in Entity, line: 10  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T15:48:11+00:00 ERR (3): Warning: DOMDocument::loadXML(): EntityRef: expecting ';' in Entity, line: 10  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T15:48:11+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag META line 5 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T15:48:11+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag META line 4 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T15:48:11+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag META line 3 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T15:48:11+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag head line 3 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T15:48:11+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag html line 2 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T15:48:11+00:00 ERR (3): Recoverable Error: Argument 1 passed to Mage_Connect_Channel_VO::fromArray() must be of the type array, null given, called in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Connect/Rest.php on line 170 and defined  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Connect/Channel/VO.php on line 85
+2013-09-22T15:48:11+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Connect/Channel/VO.php on line 87
+2013-09-22T15:53:30+00:00 ERR (3): Warning: DOMDocument::loadXML(): EntityRef: expecting ';' in Entity, line: 7  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T15:53:30+00:00 ERR (3): Warning: DOMDocument::loadXML(): EntityRef: expecting ';' in Entity, line: 10  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T15:53:30+00:00 ERR (3): Warning: DOMDocument::loadXML(): EntityRef: expecting ';' in Entity, line: 10  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T15:53:30+00:00 ERR (3): Warning: DOMDocument::loadXML(): EntityRef: expecting ';' in Entity, line: 10  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T15:53:30+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag META line 5 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T15:53:30+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag META line 4 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T15:53:30+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag META line 3 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T15:53:30+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag head line 3 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T15:53:30+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag html line 2 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T15:53:30+00:00 ERR (3): Recoverable Error: Argument 1 passed to Mage_Connect_Channel_VO::fromArray() must be of the type array, null given, called in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Connect/Rest.php on line 170 and defined  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Connect/Channel/VO.php on line 85
+2013-09-22T15:53:30+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Connect/Channel/VO.php on line 87
+2013-09-22T16:00:20+00:00 ERR (3): Warning: DOMDocument::loadXML(): EntityRef: expecting ';' in Entity, line: 7  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:00:20+00:00 ERR (3): Warning: DOMDocument::loadXML(): EntityRef: expecting ';' in Entity, line: 10  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:00:20+00:00 ERR (3): Warning: DOMDocument::loadXML(): EntityRef: expecting ';' in Entity, line: 10  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:00:20+00:00 ERR (3): Warning: DOMDocument::loadXML(): EntityRef: expecting ';' in Entity, line: 10  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:00:20+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag META line 5 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:00:20+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag META line 4 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:00:20+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag META line 3 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:00:20+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag head line 3 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:00:20+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag html line 2 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:00:20+00:00 ERR (3): Recoverable Error: Argument 1 passed to Mage_Connect_Channel_VO::fromArray() must be of the type array, null given, called in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Connect/Rest.php on line 170 and defined  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Connect/Channel/VO.php on line 85
+2013-09-22T16:00:20+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Connect/Channel/VO.php on line 87
+2013-09-22T16:01:05+00:00 ERR (3): Warning: DOMDocument::loadXML(): EntityRef: expecting ';' in Entity, line: 7  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:01:05+00:00 ERR (3): Warning: DOMDocument::loadXML(): EntityRef: expecting ';' in Entity, line: 10  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:01:05+00:00 ERR (3): Warning: DOMDocument::loadXML(): EntityRef: expecting ';' in Entity, line: 10  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:01:05+00:00 ERR (3): Warning: DOMDocument::loadXML(): EntityRef: expecting ';' in Entity, line: 10  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:01:05+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag META line 5 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:01:05+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag META line 4 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:01:05+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag META line 3 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:01:05+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag head line 3 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:01:05+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag html line 2 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:01:05+00:00 ERR (3): Recoverable Error: Argument 1 passed to Mage_Connect_Channel_VO::fromArray() must be of the type array, null given, called in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Connect/Rest.php on line 170 and defined  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Connect/Channel/VO.php on line 85
+2013-09-22T16:01:05+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Connect/Channel/VO.php on line 87
+2013-09-22T16:01:16+00:00 ERR (3): Warning: DOMDocument::loadXML(): EntityRef: expecting ';' in Entity, line: 7  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:01:16+00:00 ERR (3): Warning: DOMDocument::loadXML(): EntityRef: expecting ';' in Entity, line: 10  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:01:16+00:00 ERR (3): Warning: DOMDocument::loadXML(): EntityRef: expecting ';' in Entity, line: 10  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:01:16+00:00 ERR (3): Warning: DOMDocument::loadXML(): EntityRef: expecting ';' in Entity, line: 10  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:01:16+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag META line 5 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:01:16+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag META line 4 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:01:16+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag META line 3 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:01:16+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag head line 3 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:01:16+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag html line 2 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:01:16+00:00 ERR (3): Recoverable Error: Argument 1 passed to Mage_Connect_Channel_VO::fromArray() must be of the type array, null given, called in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Connect/Rest.php on line 170 and defined  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Connect/Channel/VO.php on line 85
+2013-09-22T16:01:16+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Connect/Channel/VO.php on line 87
+2013-09-22T16:01:40+00:00 ERR (3): Warning: DOMDocument::loadXML(): EntityRef: expecting ';' in Entity, line: 7  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:01:40+00:00 ERR (3): Warning: DOMDocument::loadXML(): EntityRef: expecting ';' in Entity, line: 10  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:01:40+00:00 ERR (3): Warning: DOMDocument::loadXML(): EntityRef: expecting ';' in Entity, line: 10  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:01:40+00:00 ERR (3): Warning: DOMDocument::loadXML(): EntityRef: expecting ';' in Entity, line: 10  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:01:40+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag META line 5 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:01:40+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag META line 4 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:01:40+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag META line 3 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:01:40+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag head line 3 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:01:40+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag html line 2 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:01:40+00:00 ERR (3): Recoverable Error: Argument 1 passed to Mage_Connect_Channel_VO::fromArray() must be of the type array, null given, called in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Connect/Rest.php on line 170 and defined  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Connect/Channel/VO.php on line 85
+2013-09-22T16:01:40+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Connect/Channel/VO.php on line 87
+2013-09-22T16:01:52+00:00 ERR (3): Warning: DOMDocument::loadXML(): EntityRef: expecting ';' in Entity, line: 7  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:01:52+00:00 ERR (3): Warning: DOMDocument::loadXML(): EntityRef: expecting ';' in Entity, line: 10  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:01:52+00:00 ERR (3): Warning: DOMDocument::loadXML(): EntityRef: expecting ';' in Entity, line: 10  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:01:52+00:00 ERR (3): Warning: DOMDocument::loadXML(): EntityRef: expecting ';' in Entity, line: 10  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:01:52+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag META line 5 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:01:52+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag META line 4 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:01:52+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag META line 3 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:01:52+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag head line 3 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:01:52+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag html line 2 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:01:52+00:00 ERR (3): Recoverable Error: Argument 1 passed to Mage_Connect_Channel_VO::fromArray() must be of the type array, null given, called in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Connect/Rest.php on line 170 and defined  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Connect/Channel/VO.php on line 85
+2013-09-22T16:01:52+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Connect/Channel/VO.php on line 87
+2013-09-22T16:02:10+00:00 ERR (3): Warning: DOMDocument::loadXML(): EntityRef: expecting ';' in Entity, line: 7  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:02:10+00:00 ERR (3): Warning: DOMDocument::loadXML(): EntityRef: expecting ';' in Entity, line: 10  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:02:10+00:00 ERR (3): Warning: DOMDocument::loadXML(): EntityRef: expecting ';' in Entity, line: 10  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:02:10+00:00 ERR (3): Warning: DOMDocument::loadXML(): EntityRef: expecting ';' in Entity, line: 10  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:02:10+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag META line 5 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:02:10+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag META line 4 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:02:10+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag META line 3 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:02:10+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag head line 3 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:02:10+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag html line 2 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:02:10+00:00 ERR (3): Recoverable Error: Argument 1 passed to Mage_Connect_Channel_VO::fromArray() must be of the type array, null given, called in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Connect/Rest.php on line 170 and defined  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Connect/Channel/VO.php on line 85
+2013-09-22T16:02:10+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Connect/Channel/VO.php on line 87
+2013-09-22T16:02:21+00:00 ERR (3): Warning: DOMDocument::loadXML(): EntityRef: expecting ';' in Entity, line: 7  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:02:21+00:00 ERR (3): Warning: DOMDocument::loadXML(): EntityRef: expecting ';' in Entity, line: 10  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:02:21+00:00 ERR (3): Warning: DOMDocument::loadXML(): EntityRef: expecting ';' in Entity, line: 10  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:02:21+00:00 ERR (3): Warning: DOMDocument::loadXML(): EntityRef: expecting ';' in Entity, line: 10  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:02:21+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag META line 5 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:02:21+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag META line 4 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:02:21+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag META line 3 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:02:21+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag head line 3 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:02:21+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag html line 2 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:02:21+00:00 ERR (3): Recoverable Error: Argument 1 passed to Mage_Connect_Channel_VO::fromArray() must be of the type array, null given, called in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Connect/Rest.php on line 170 and defined  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Connect/Channel/VO.php on line 85
+2013-09-22T16:02:21+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Connect/Channel/VO.php on line 87
+2013-09-22T16:02:57+00:00 ERR (3): Warning: DOMDocument::loadXML(): EntityRef: expecting ';' in Entity, line: 7  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:02:57+00:00 ERR (3): Warning: DOMDocument::loadXML(): EntityRef: expecting ';' in Entity, line: 10  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:02:57+00:00 ERR (3): Warning: DOMDocument::loadXML(): EntityRef: expecting ';' in Entity, line: 10  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:02:57+00:00 ERR (3): Warning: DOMDocument::loadXML(): EntityRef: expecting ';' in Entity, line: 10  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:02:57+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag META line 5 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:02:57+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag META line 4 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:02:57+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag META line 3 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:02:57+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag head line 3 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:02:57+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag html line 2 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:02:57+00:00 ERR (3): Recoverable Error: Argument 1 passed to Mage_Connect_Channel_VO::fromArray() must be of the type array, null given, called in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Connect/Rest.php on line 170 and defined  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Connect/Channel/VO.php on line 85
+2013-09-22T16:02:57+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Connect/Channel/VO.php on line 87
+2013-09-22T16:04:40+00:00 ERR (3): Warning: DOMDocument::loadXML(): EntityRef: expecting ';' in Entity, line: 7  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:04:40+00:00 ERR (3): Warning: DOMDocument::loadXML(): EntityRef: expecting ';' in Entity, line: 10  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:04:40+00:00 ERR (3): Warning: DOMDocument::loadXML(): EntityRef: expecting ';' in Entity, line: 10  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:04:40+00:00 ERR (3): Warning: DOMDocument::loadXML(): EntityRef: expecting ';' in Entity, line: 10  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:04:40+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag META line 5 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:04:40+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag META line 4 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:04:40+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag META line 3 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:04:40+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag head line 3 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:04:40+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag html line 2 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:04:40+00:00 ERR (3): Recoverable Error: Argument 1 passed to Mage_Connect_Channel_VO::fromArray() must be of the type array, null given, called in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Connect/Rest.php on line 170 and defined  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Connect/Channel/VO.php on line 85
+2013-09-22T16:04:40+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Connect/Channel/VO.php on line 87
+2013-09-22T16:13:59+00:00 ERR (3): Warning: DOMDocument::loadXML(): EntityRef: expecting ';' in Entity, line: 7  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:13:59+00:00 ERR (3): Warning: DOMDocument::loadXML(): EntityRef: expecting ';' in Entity, line: 10  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:13:59+00:00 ERR (3): Warning: DOMDocument::loadXML(): EntityRef: expecting ';' in Entity, line: 10  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:13:59+00:00 ERR (3): Warning: DOMDocument::loadXML(): EntityRef: expecting ';' in Entity, line: 10  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:13:59+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag META line 5 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:13:59+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag META line 4 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:13:59+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag META line 3 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:13:59+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag head line 3 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:13:59+00:00 ERR (3): Warning: DOMDocument::loadXML(): Premature end of data in tag html line 2 in Entity, line: 16  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Xml/Parser.php on line 111
+2013-09-22T16:13:59+00:00 ERR (3): Recoverable Error: Argument 1 passed to Mage_Connect_Channel_VO::fromArray() must be of the type array, null given, called in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Connect/Rest.php on line 170 and defined  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Connect/Channel/VO.php on line 85
+2013-09-22T16:13:59+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in /Users/tedi/workspace/phpproject/magento/downloader/lib/Mage/Connect/Channel/VO.php on line 87
+2013-09-22T16:33:06+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-22T16:33:12+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-22T16:48:53+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-22T16:49:03+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-22T16:49:07+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-22T16:49:22+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-23T22:45:29+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-23T22:46:03+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-23T22:46:08+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-23T23:27:20+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-23T23:27:34+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-23T23:27:38+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-24T15:33:16+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-24T15:33:55+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-24T15:34:05+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Users/tedi/workspace/phpproject/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /Users/tedi/workspace/phpproject/magento/app/Mage.php:683
+[6] /Users/tedi/workspace/phpproject/magento/index.php:87
+</pre>
+2013-09-24T15:34:05+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Users/tedi/workspace/phpproject/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /Users/tedi/workspace/phpproject/magento/app/Mage.php:683
+[6] /Users/tedi/workspace/phpproject/magento/index.php:87
+</pre>
+2013-09-24T15:34:05+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Users/tedi/workspace/phpproject/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /Users/tedi/workspace/phpproject/magento/app/Mage.php:683
+[6] /Users/tedi/workspace/phpproject/magento/index.php:87
+</pre>
+2013-09-24T15:34:24+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-24T15:34:55+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Users/tedi/workspace/phpproject/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /Users/tedi/workspace/phpproject/magento/app/Mage.php:683
+[6] /Users/tedi/workspace/phpproject/magento/index.php:87
+</pre>
+2013-09-24T15:34:55+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Users/tedi/workspace/phpproject/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /Users/tedi/workspace/phpproject/magento/app/Mage.php:683
+[6] /Users/tedi/workspace/phpproject/magento/index.php:87
+</pre>
+2013-09-24T15:34:55+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Users/tedi/workspace/phpproject/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /Users/tedi/workspace/phpproject/magento/app/Mage.php:683
+[6] /Users/tedi/workspace/phpproject/magento/index.php:87
+</pre>
+2013-09-24T15:37:14+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-24T15:37:22+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-24T15:37:49+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-24T22:29:17+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-24T22:29:46+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-24T22:31:28+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-24T22:37:25+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-24T22:37:33+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-25T02:42:03+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-25T13:50:38+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-25T14:03:05+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-25T15:41:16+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-25T15:41:37+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T13:03:13+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T13:04:19+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T13:04:49+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T13:05:15+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T13:05:16+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T13:05:47+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T13:05:53+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Users/tedi/workspace/phpproject/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /Users/tedi/workspace/phpproject/magento/app/Mage.php:683
+[6] /Users/tedi/workspace/phpproject/magento/index.php:87
+</pre>
+2013-09-26T13:05:53+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Users/tedi/workspace/phpproject/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /Users/tedi/workspace/phpproject/magento/app/Mage.php:683
+[6] /Users/tedi/workspace/phpproject/magento/index.php:87
+</pre>
+2013-09-26T13:05:53+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Users/tedi/workspace/phpproject/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /Users/tedi/workspace/phpproject/magento/app/Mage.php:683
+[6] /Users/tedi/workspace/phpproject/magento/index.php:87
+</pre>
+2013-09-26T14:36:26+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Users/tedi/workspace/phpproject/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /Users/tedi/workspace/phpproject/magento/app/Mage.php:683
+[6] /Users/tedi/workspace/phpproject/magento/index.php:87
+</pre>
+2013-09-26T14:36:26+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Users/tedi/workspace/phpproject/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /Users/tedi/workspace/phpproject/magento/app/Mage.php:683
+[6] /Users/tedi/workspace/phpproject/magento/index.php:87
+</pre>
+2013-09-26T14:36:26+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Users/tedi/workspace/phpproject/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /Users/tedi/workspace/phpproject/magento/app/Mage.php:683
+[6] /Users/tedi/workspace/phpproject/magento/index.php:87
+</pre>
+2013-09-26T14:36:32+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Users/tedi/workspace/phpproject/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /Users/tedi/workspace/phpproject/magento/app/Mage.php:683
+[6] /Users/tedi/workspace/phpproject/magento/index.php:87
+</pre>
+2013-09-26T14:37:06+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T14:37:33+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T14:38:04+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T14:38:43+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T14:39:35+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T14:39:51+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T14:40:23+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T14:40:45+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T14:41:08+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T14:42:36+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T14:42:39+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T14:43:18+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Users/tedi/workspace/phpproject/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /Users/tedi/workspace/phpproject/magento/app/Mage.php:683
+[6] /Users/tedi/workspace/phpproject/magento/index.php:87
+</pre>
+2013-09-26T14:43:18+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Users/tedi/workspace/phpproject/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /Users/tedi/workspace/phpproject/magento/app/Mage.php:683
+[6] /Users/tedi/workspace/phpproject/magento/index.php:87
+</pre>
+2013-09-26T14:43:18+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Users/tedi/workspace/phpproject/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /Users/tedi/workspace/phpproject/magento/app/Mage.php:683
+[6] /Users/tedi/workspace/phpproject/magento/index.php:87
+</pre>
+2013-09-26T14:43:18+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Users/tedi/workspace/phpproject/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /Users/tedi/workspace/phpproject/magento/app/Mage.php:683
+[6] /Users/tedi/workspace/phpproject/magento/index.php:87
+</pre>
+2013-09-26T14:43:18+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Users/tedi/workspace/phpproject/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /Users/tedi/workspace/phpproject/magento/app/Mage.php:683
+[6] /Users/tedi/workspace/phpproject/magento/index.php:87
+</pre>
+2013-09-26T14:43:18+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Users/tedi/workspace/phpproject/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /Users/tedi/workspace/phpproject/magento/app/Mage.php:683
+[6] /Users/tedi/workspace/phpproject/magento/index.php:87
+</pre>
+2013-09-26T14:48:17+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T14:49:27+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T14:49:27+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T14:49:33+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T14:49:33+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T14:50:14+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T14:50:14+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T14:50:17+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T14:50:17+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T14:53:05+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T14:53:05+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T14:54:50+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T14:54:50+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T14:55:01+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T14:55:01+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T14:56:07+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T14:56:07+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T14:56:30+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T14:56:30+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T14:56:41+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T14:56:41+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T14:58:26+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Users/tedi/workspace/phpproject/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Users/tedi/workspace/phpproject/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /Users/tedi/workspace/phpproject/magento/app/Mage.php:683
+[6] /Users/tedi/workspace/phpproject/magento/index.php:87
+</pre>
+2013-09-26T14:58:46+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T14:58:46+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T14:59:06+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T14:59:06+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T15:00:04+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T15:00:35+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T15:01:57+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T15:04:01+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T15:04:22+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T15:05:39+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T15:05:54+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T15:06:07+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T15:06:20+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T15:06:35+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T15:06:44+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T15:06:55+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T15:07:03+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T15:09:07+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T15:09:24+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T15:09:46+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T15:10:20+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T15:10:45+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T15:10:55+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T15:11:13+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T15:13:01+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T15:13:07+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T15:13:15+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
+2013-09-26T15:14:53+00:00 CRIT (2): Not valid template file:frontend/base/default/template/catalog/product/home.phtml
