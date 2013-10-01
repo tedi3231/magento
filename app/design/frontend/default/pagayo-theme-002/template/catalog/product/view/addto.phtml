@@ -32,19 +32,23 @@
 <?php if ($this->helper('wishlist')->isAllow()) : ?>
     <li><a href="<?php echo $_wishlistSubmitUrl ?>" onclick="productAddToCartForm.submitLight(this, this.href); return false;" class="link-wishlist"><?php echo $this->__('Add to Wishlist') ?></a></li>
 <?php endif; ?>
+
+<!--
 <?php
     $_compareUrl = $this->helper('catalog/product_compare')->getAddUrl($_product);
 ?>
 <?php if($_compareUrl) : ?>
     <li><span class="separator">|</span> <a href="<?php echo $_compareUrl ?>" class="link-compare"><?php echo $this->__('Add to Compare') ?></a></li>
-<?php endif; ?>
+<?php endif; ?>-->
 </ul>
 
 <!-- AddThis Button BEGIN -->
+<!--
 <div class="addthis_toolbox addthis_default_style ">
 <a class="addthis_button_facebook_like" fb:like:layout="button_count" fb:like:width="130"></a>
 <a class="addthis_button_tweet"></a>
 <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
 </div>
 <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-502b70a8773dcbb1"></script>
+-->
 <!-- AddThis Button END -->
